@@ -85,8 +85,3 @@ The application uses Zustand for state management. You can use the `useUser` hoo
 ## API Integration
 
 API calls are managed in the `src/actions/` folder. Each file in this folder handles specific actions related to user management and API requests.
-
-## Contributing
-
-If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes tests where applicable.
-
