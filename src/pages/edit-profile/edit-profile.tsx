@@ -64,7 +64,6 @@ const EditProfile = () => {
     const { name, value } = e.target;
 
     setData((prevData) => ({ ...prevData, [name]: value }));
-    console.log('value is ', value);
     const validation = (() => {
       switch (name) {
         case 'email':
